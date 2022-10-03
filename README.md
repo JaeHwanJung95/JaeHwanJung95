@@ -4,8 +4,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
  <!-- Display img -->
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
@@ -17,9 +15,6 @@
   <br>
   <br>
 </p>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>

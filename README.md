@@ -29,7 +29,7 @@
     <img align="center" alt="JungJaeHwan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
     </a>
     <a href="mailto:mashimaro9512@gmail.com">
-    <img align="center" alt="JungJaeHwan's Gmail" width="22px" src="/gmail_icon_vecteezy_transparent_generated.jpg"/>
+    <img align="center" alt="JungJaeHwan's Gmail" width="22px" src="/gmail_icon_vecteezy_transparent_generated.jpg">
     </a>
 </p>
 <br>

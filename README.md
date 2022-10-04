@@ -3,7 +3,6 @@
 <br>
 <br>
 <br>
-<br>
  <!-- Display img -->
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
@@ -15,7 +14,6 @@
 </p>
 <br>
 <br>
-<br>
 <!-- Badge -->
 <p align="center">
     <a href="https://www.instagram.com/jo_ojaehwan/">
@@ -25,6 +23,4 @@
     <img align="center" alt="JungJaeHwan's Gmail" width="64px" src="https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mashimaro9512@gmail.com">
     </a>
 </p>
-<br>
-<br>
 <br>

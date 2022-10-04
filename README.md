@@ -1,7 +1,5 @@
 # jo_ojaehwan
 
-<link rel="stylesheet" href="README.css">
-
 <br>
 <br>
 <br>

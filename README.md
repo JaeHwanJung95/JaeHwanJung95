@@ -16,6 +16,7 @@
 <br>
 
 ![JaeHwanJung's github stats](https://github-readme-stats.vercel.app/api?username=JaeHwanJung95&show_icons=true&theme=buefy&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHwanJung95&layout=compact&theme=buefy&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Badge -->
 <p align="center">

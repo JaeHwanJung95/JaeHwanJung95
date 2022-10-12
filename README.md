@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JaeHwanJung95&show_icons=true&theme=buefy&hide=issues&count_private=true&include_all_commits=true">
 
   <!-- Top Langs -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHwanJung95&layout=compact&theme=buefy"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHwanJung95&layout=compact&theme=buefy">
 </p>
 
 <!-- Badge -->
